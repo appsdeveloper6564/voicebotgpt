@@ -1,0 +1,7 @@
+{
+  "name": "VoiceBotgpt",
+  "description": "A next-generation conversational AI voice assistant powered by Gemini 2.5 Live API. Features real-time voice interaction, productivity tools, and access to the MafiaTech ecosystem.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
